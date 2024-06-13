@@ -3,14 +3,17 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "ts-node src/convert.ts sites.xml sites.gpx"
+    "start": "ts-node src/convert.ts data/sites-all.xml data/slope-start-sites.gpx data/landing-sites.gpx data/whinch-start-sites.gpx"
   },
   "dependencies": {
-    "ts-node": "^10.9.2",
+    "lodash": "^4.17.21",
     "xmlbuilder2": "^3.1.1",
     "xmldoc": "^1.3.0"
   },
   "devDependencies": {
-    "@types/xmldoc": "^1.1.9"
+    "@types/lodash": "^4.17.5",
+    "@types/node": "^20.14.2",
+    "@types/xmldoc": "^1.1.9",
+    "ts-node": "^10.9.2"
   }
 }

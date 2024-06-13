@@ -1,0 +1,2814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DhvXml Version="1.0" Timestamp="1718231431">
+	<GeneratedAt>https://www.dhv.de/db2/geosearch.php</GeneratedAt>
+	<GeneratedOn>2024-06-13T00:30:31+02:00</GeneratedOn>
+	<Copyright>DHV - Deutscher Hängegleiterverband</Copyright>
+	<CopyrightUrl>https://www.dhv.de/piloteninfos/gelaende-luftraum-natur/fluggelaende/nutzungsbedingungen-gelaendedatenbank/</CopyrightUrl>
+	<FlyingSites>
+		<FlyingSite>
+			<SiteID>2706</SiteID>
+			<SiteName><![CDATA[Ailigas]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Hanggelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Hill site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>150</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar><![CDATA[keine]]></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=2706]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Ailigas Startplatz]]></LocationName>
+				<Coordinates>25.987033,69.424833</Coordinates>
+				<LocationID>5237</LocationID>
+				<LocationType>1</LocationType>
+				<CoordinatesText><![CDATA[N 69°25'29.40" E 25°59'13.32"]]></CoordinatesText>
+				<Altitude>563</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>99950</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Karigasniemi]]></Municipality>
+				<Directions>7</Directions>
+				<DirectionsText>S</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+			<Location>
+				<LocationName><![CDATA[Ailigas Landeplatz]]></LocationName>
+				<Coordinates>25.971322,69.415953</Coordinates>
+				<LocationID>5238</LocationID>
+				<LocationType>2</LocationType>
+				<CoordinatesText><![CDATA[N 69°24'57.43" E 25°58'16.76"]]></CoordinatesText>
+				<Altitude>413</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>99950</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Karigasniemi]]></Municipality>
+				<Directions></Directions>
+				<DirectionsText></DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>2707</SiteID>
+			<SiteName><![CDATA[Ylläs]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Hanggelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Hill site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=2707]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Ylläs Startplatz]]></LocationName>
+				<Coordinates>24.217875,67.564983</Coordinates>
+				<LocationID>5239</LocationID>
+				<LocationType>1</LocationType>
+				<CoordinatesText><![CDATA[N 67°33'53.94" E 24°13'04.35"]]></CoordinatesText>
+				<Altitude>708</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>95980</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Ylläsjärvi]]></Municipality>
+				<Directions>37BF</Directions>
+				<DirectionsText>N, O, S, W</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>true</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>2708</SiteID>
+			<SiteName><![CDATA[Muuratsalo]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar><![CDATA[keine]]></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=2708]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Muuratsalo Schlepp]]></LocationName>
+				<Coordinates>25.780961,62.103794</Coordinates>
+				<LocationID>5240</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 62°06'13.66" E 25°46'51.46"]]></CoordinatesText>
+				<Altitude>78</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>40900</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Muuratsalo]]></Municipality>
+				<Directions>37BF</Directions>
+				<DirectionsText>N, O, S, W</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>2709</SiteID>
+			<SiteName><![CDATA[Jyvaskyla]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar><![CDATA[keine]]></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=2709]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Jyvaskyla Schlepp]]></LocationName>
+				<Coordinates>26.187147,61.900497</Coordinates>
+				<LocationID>5241</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 61°54'01.79" E 26°11'13.73"]]></CoordinatesText>
+				<Altitude>119</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>41770</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Jukola]]></Municipality>
+				<Directions>5D</Directions>
+				<DirectionsText>NW, SO</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>2710</SiteID>
+			<SiteName><![CDATA[Karleby]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar><![CDATA[keine]]></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=2710]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Karleby Schlepp]]></LocationName>
+				<Coordinates>24.723775,64.050667</Coordinates>
+				<LocationID>5242</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 64°03'02.40" E 24°43'25.59"]]></CoordinatesText>
+				<Altitude>74</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>84540</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Sorvoja]]></Municipality>
+				<Directions>5D</Directions>
+				<DirectionsText>SO, NW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>2711</SiteID>
+			<SiteName><![CDATA[Himos]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Hanggelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Hill site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>93</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar><![CDATA[nur im Winter]]></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=2711]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Himos Startplatz]]></LocationName>
+				<Coordinates>25.312994,61.881586</Coordinates>
+				<LocationID>5243</LocationID>
+				<LocationType>1</LocationType>
+				<CoordinatesText><![CDATA[N 61°52'53.71" E 25°18'46.78"]]></CoordinatesText>
+				<Altitude>190</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>42100</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Länsi-Himos]]></Municipality>
+				<Directions>BCD</Directions>
+				<DirectionsText>W-NW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+			<Location>
+				<LocationName><![CDATA[Himos Landeplatz]]></LocationName>
+				<Coordinates>25.295658,61.882867</Coordinates>
+				<LocationID>5244</LocationID>
+				<LocationType>2</LocationType>
+				<CoordinatesText><![CDATA[N 61°52'58.32" E 25°17'44.37"]]></CoordinatesText>
+				<Altitude>97</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>42100</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Länsi-Himos]]></Municipality>
+				<Directions></Directions>
+				<DirectionsText></DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>2712</SiteID>
+			<SiteName><![CDATA[Jämijärvi]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme und Hängegleiter]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders and hanggliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar><![CDATA[keine]]></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=2712]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Jämijärvi Schlepp]]></LocationName>
+				<Coordinates>22.714969,61.776511</Coordinates>
+				<LocationID>5245</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 61°46'35.44" E 22°42'53.89"]]></CoordinatesText>
+				<Altitude>155</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>38800</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Jämijärvi]]></Municipality>
+				<Directions>35BD</Directions>
+				<DirectionsText>O, W, NW, SO</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>true</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG><![CDATA[1- und 2-sitzig]]></SuitabilityHG>
+				<SuitabilityHG_en><![CDATA[1- and 2-seaters]]></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>2713</SiteID>
+			<SiteName><![CDATA[Puumala]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar><![CDATA[keine]]></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=2713]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Puumala Schlepp]]></LocationName>
+				<Coordinates>28.013706,61.568367</Coordinates>
+				<LocationID>5246</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 61°34'06.12" E 28°00'49.34"]]></CoordinatesText>
+				<Altitude>88</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>52200</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Puumala]]></Municipality>
+				<Directions>19</Directions>
+				<DirectionsText>NO, SW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>2714</SiteID>
+			<SiteName><![CDATA[Siilinkari]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar><![CDATA[keine]]></CableCar>
+			<SiteRemarks><![CDATA[Windenschlepp im Winter auf gefrorenem See.]]></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=2714]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Siilinkari Schlepp]]></LocationName>
+				<Coordinates>23.664950,61.659197</Coordinates>
+				<LocationID>5247</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 61°39'33.11" E 23°39'53.82"]]></CoordinatesText>
+				<Altitude>95</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>34140</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Savilahti]]></Municipality>
+				<Directions>0123456789ABCDEF</Directions>
+				<DirectionsText>NNO-N</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>2715</SiteID>
+			<SiteName><![CDATA[Vesivehmaa]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme und Hängegleiter]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders and hanggliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar><![CDATA[keine]]></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=2715]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Vesivehmaa Schlepp]]></LocationName>
+				<Coordinates>25.691917,61.144483</Coordinates>
+				<LocationID>5248</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 61°08'40.14" E 25°41'30.90"]]></CoordinatesText>
+				<Altitude>152</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>17130</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Vesivehmaa]]></Municipality>
+				<Directions>179F</Directions>
+				<DirectionsText>N, S, NO, SW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>true</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG><![CDATA[1- und 2-sitzig]]></SuitabilityHG>
+				<SuitabilityHG_en><![CDATA[1- and 2-seaters]]></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>2716</SiteID>
+			<SiteName><![CDATA[Yalpalinna]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Hanggelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Hill site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>35</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar><![CDATA[im Winter]]></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=2716]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Yalpalinna Startplatz]]></LocationName>
+				<Coordinates>24.595289,60.930792</Coordinates>
+				<LocationID>5249</LocationID>
+				<LocationType>1</LocationType>
+				<CoordinatesText><![CDATA[N 60°55'50.85" E 24°35'43.04"]]></CoordinatesText>
+				<Altitude>135</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>14200</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Yalpalinna]]></Municipality>
+				<Directions>7</Directions>
+				<DirectionsText>S</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>true</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+			<Location>
+				<LocationName><![CDATA[Yalpalinna Landeplatz]]></LocationName>
+				<Coordinates>24.594294,60.926686</Coordinates>
+				<LocationID>5250</LocationID>
+				<LocationType>2</LocationType>
+				<CoordinatesText><![CDATA[N 60°55'36.07" E 24°35'39.46"]]></CoordinatesText>
+				<Altitude>100</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>14200</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Yalpalinna]]></Municipality>
+				<Directions></Directions>
+				<DirectionsText></DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>2717</SiteID>
+			<SiteName><![CDATA[Haltianmäki]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar><![CDATA[keine]]></CableCar>
+			<SiteRemarks><![CDATA[Windenschlepp im Winter auf gefrorenem See.]]></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=2717]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Haltianmäki Schlepp]]></LocationName>
+				<Coordinates>26.751011,60.702972</Coordinates>
+				<LocationID>5251</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 60°42'10.70" E 26°45'03.64"]]></CoordinatesText>
+				<Altitude>21</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>46910</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Haltianmäki]]></Municipality>
+				<Directions>9</Directions>
+				<DirectionsText>SW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>2718</SiteID>
+			<SiteName><![CDATA[Myrskylä]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Hanggelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Hill site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>12</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar><![CDATA[keine]]></CableCar>
+			<SiteRemarks><![CDATA[Winterfluggelände]]></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=2718]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Myrskylä Startplatz]]></LocationName>
+				<Coordinates>25.862742,60.660072</Coordinates>
+				<LocationID>5252</LocationID>
+				<LocationType>1</LocationType>
+				<CoordinatesText><![CDATA[N 60°39'36.26" E 25°51'45.87"]]></CoordinatesText>
+				<Altitude>50</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>07600</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Myrskylä]]></Municipality>
+				<Directions>D</Directions>
+				<DirectionsText>NW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+			<Location>
+				<LocationName><![CDATA[Myrskylä Landeplatz]]></LocationName>
+				<Coordinates>25.862533,60.661128</Coordinates>
+				<LocationID>5253</LocationID>
+				<LocationType>2</LocationType>
+				<CoordinatesText><![CDATA[N 60°39'40.06" E 25°51'45.12"]]></CoordinatesText>
+				<Altitude>38</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>07600</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Myrskylä]]></Municipality>
+				<Directions></Directions>
+				<DirectionsText></DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks><![CDATA[Landung im Winter auf gefrorenem See.]]></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>2719</SiteID>
+			<SiteName><![CDATA[Hyvinkää]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme und Hängegleiter]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders and hanggliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar><![CDATA[keine]]></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=2719]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Hyvinkää Schlepp]]></LocationName>
+				<Coordinates>24.876950,60.651683</Coordinates>
+				<LocationID>5254</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 60°39'06.06" E 24°52'37.02"]]></CoordinatesText>
+				<Altitude>131</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>05800</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Hyvinkää]]></Municipality>
+				<Directions>159D</Directions>
+				<DirectionsText>NO, SW, NW, SO</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>true</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG><![CDATA[1- und 2-sitzig]]></SuitabilityHG>
+				<SuitabilityHG_en><![CDATA[1- and 2-seaters]]></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>2720</SiteID>
+			<SiteName><![CDATA[Kiikala]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme und Hängegleiter]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders and hanggliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar><![CDATA[keine]]></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=2720]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Kiikala Schlepp]]></LocationName>
+				<Coordinates>23.651447,60.461928</Coordinates>
+				<LocationID>5255</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 60°27'42.94" E 23°39'05.21"]]></CoordinatesText>
+				<Altitude>115</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>31470</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Metsänoja]]></Municipality>
+				<Directions>57DF</Directions>
+				<DirectionsText>N, S, SO, NW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>true</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG><![CDATA[1- und 2-sitzig]]></SuitabilityHG>
+				<SuitabilityHG_en><![CDATA[1- and 2-seaters]]></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>2721</SiteID>
+			<SiteName><![CDATA[Nummela]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme und Hängegleiter]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders and hanggliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar><![CDATA[keine]]></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=2721]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Nummela Schlepp]]></LocationName>
+				<Coordinates>24.299533,60.336006</Coordinates>
+				<LocationID>5256</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 60°20'09.62" E 24°17'58.32"]]></CoordinatesText>
+				<Altitude>119</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>03100</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Nummela]]></Municipality>
+				<Directions>139B</Directions>
+				<DirectionsText>W, O, SW, NO</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>true</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG><![CDATA[1- und 2-sitzig]]></SuitabilityHG>
+				<SuitabilityHG_en><![CDATA[1- and 2-seaters]]></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>2722</SiteID>
+			<SiteName><![CDATA[Hanko]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Hanggelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Hill site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>5</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar><![CDATA[keine]]></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=2722]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Hanko Startplatz]]></LocationName>
+				<Coordinates>23.230753,59.895761</Coordinates>
+				<LocationID>5257</LocationID>
+				<LocationType>1</LocationType>
+				<CoordinatesText><![CDATA[N 59°53'44.74" E 23°13'50.71"]]></CoordinatesText>
+				<Altitude>21</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>10820</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Högsand]]></Municipality>
+				<Directions>5</Directions>
+				<DirectionsText>SO</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+			<Location>
+				<LocationName><![CDATA[Hanko Landeplatz]]></LocationName>
+				<Coordinates>23.231319,59.895583</Coordinates>
+				<LocationID>5258</LocationID>
+				<LocationType>2</LocationType>
+				<CoordinatesText><![CDATA[N 59°53'44.10" E 23°13'52.75"]]></CoordinatesText>
+				<Altitude>16</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>10820</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Högsand]]></Municipality>
+				<Directions></Directions>
+				<DirectionsText></DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>4601</SiteID>
+			<SiteName><![CDATA[Pallas]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Hanggelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Hill site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>223</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=4601]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Pallas Startplatz]]></LocationName>
+				<Coordinates>24.034525,68.060019</Coordinates>
+				<LocationID>9364</LocationID>
+				<LocationType>1</LocationType>
+				<CoordinatesText><![CDATA[N 68°03'36.07" E 24°02'04.29"]]></CoordinatesText>
+				<Altitude>726</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>99330</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Pallastunturintie]]></Municipality>
+				<Directions>789</Directions>
+				<DirectionsText>S-SW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>false</AccessByCar>
+				<AccessByPublicTransport>true</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks><![CDATA[Skilift im Winter]]></LocationRemarks>
+			</Location>
+			<Location>
+				<LocationName><![CDATA[Pallas Landeplatz]]></LocationName>
+				<Coordinates>24.078108,68.046269</Coordinates>
+				<LocationID>9365</LocationID>
+				<LocationType>2</LocationType>
+				<CoordinatesText><![CDATA[N 68°02'46.57" E 24°04'41.19"]]></CoordinatesText>
+				<Altitude>503</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>99330</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Pallastunturintie]]></Municipality>
+				<Directions></Directions>
+				<DirectionsText></DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>4602</SiteID>
+			<SiteName><![CDATA[Yättäri]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Hanggelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Hill site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>28</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=4602]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Yättäri Startplatz]]></LocationName>
+				<Coordinates>24.844344,60.251056</Coordinates>
+				<LocationID>9366</LocationID>
+				<LocationType>1</LocationType>
+				<CoordinatesText><![CDATA[N 60°15'03.80" E 24°50'39.64"]]></CoordinatesText>
+				<Altitude>74</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>00410</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Helsinki]]></Municipality>
+				<Directions>345</Directions>
+				<DirectionsText>O-SO</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>false</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+			<Location>
+				<LocationName><![CDATA[Yättäri Landeplatz]]></LocationName>
+				<Coordinates>24.846950,60.249356</Coordinates>
+				<LocationID>9367</LocationID>
+				<LocationType>2</LocationType>
+				<CoordinatesText><![CDATA[N 60°14'57.68" E 24°50'49.02"]]></CoordinatesText>
+				<Altitude>46</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>00410</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Helsinki]]></Municipality>
+				<Directions></Directions>
+				<DirectionsText></DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>4603</SiteID>
+			<SiteName><![CDATA[Suomenlinna]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Hanggelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Hill site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>8</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=4603]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Suomenlinna Startplatz]]></LocationName>
+				<Coordinates>24.988183,60.138319</Coordinates>
+				<LocationID>9368</LocationID>
+				<LocationType>1</LocationType>
+				<CoordinatesText><![CDATA[N 60°08'17.95" E 24°59'17.46"]]></CoordinatesText>
+				<Altitude>10</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>00190</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Helsinki]]></Municipality>
+				<Directions>7</Directions>
+				<DirectionsText>S</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+			<Location>
+				<LocationName><![CDATA[Suomenlinna Landeplatz]]></LocationName>
+				<Coordinates>24.987953,60.138056</Coordinates>
+				<LocationID>9369</LocationID>
+				<LocationType>2</LocationType>
+				<CoordinatesText><![CDATA[N 60°08'17.00" E 24°59'16.63"]]></CoordinatesText>
+				<Altitude>2</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>00190</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Helsinki]]></Municipality>
+				<Directions></Directions>
+				<DirectionsText></DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>false</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5535</SiteID>
+			<SiteName><![CDATA[Pudasjärvi Schlepp]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5535]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Pudasjärvi Schlepp]]></LocationName>
+				<Coordinates>26.967364,65.401486</Coordinates>
+				<LocationID>11447</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 65°24'05.35" E 26°58'02.51"]]></CoordinatesText>
+				<Altitude>120</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>93100</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Pudasjärvi]]></Municipality>
+				<Directions>3456789AB</Directions>
+				<DirectionsText>O-W</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5536</SiteID>
+			<SiteName><![CDATA[Ahmosuon Schlepp]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5536]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Ahmosuon Schlepp]]></LocationName>
+				<Coordinates>25.755886,64.893481</Coordinates>
+				<LocationID>11448</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 64°53'36.53" E 25°45'21.19"]]></CoordinatesText>
+				<Altitude>30</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>90310</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Oulu]]></Municipality>
+				<Directions>5D</Directions>
+				<DirectionsText>SO, NW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5537</SiteID>
+			<SiteName><![CDATA[Kivesjärvi]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Hanggelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Hill site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>110</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5537]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Kivesjärvi Startplatz]]></LocationName>
+				<Coordinates>27.540453,64.460122</Coordinates>
+				<LocationID>11449</LocationID>
+				<LocationType>1</LocationType>
+				<CoordinatesText><![CDATA[N 64°27'36.44" E 27°32'25.63"]]></CoordinatesText>
+				<Altitude>275</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>88350</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Kivesjärvi]]></Municipality>
+				<Directions>B</Directions>
+				<DirectionsText>W</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+			<Location>
+				<LocationName><![CDATA[Kivesjärvi Landeplatz]]></LocationName>
+				<Coordinates>27.530206,64.460492</Coordinates>
+				<LocationID>11450</LocationID>
+				<LocationType>2</LocationType>
+				<CoordinatesText><![CDATA[N 64°27'37.77" E 27°31'48.74"]]></CoordinatesText>
+				<Altitude>165</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>88350</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Kivesjärvi]]></Municipality>
+				<Directions></Directions>
+				<DirectionsText></DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5538</SiteID>
+			<SiteName><![CDATA[Ärjänsaari]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Hanggelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Hill site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>9</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5538]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Ärjänsaari Startplatz]]></LocationName>
+				<Coordinates>27.347908,64.268703</Coordinates>
+				<LocationID>11451</LocationID>
+				<LocationType>1</LocationType>
+				<CoordinatesText><![CDATA[N 64°16'07.33" E 27°20'52.47"]]></CoordinatesText>
+				<Altitude>129</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>87100</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Kajaani]]></Municipality>
+				<Directions>9</Directions>
+				<DirectionsText>SW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+			<Location>
+				<LocationName><![CDATA[Ärjänsaari Landeplatz]]></LocationName>
+				<Coordinates>27.348019,64.268225</Coordinates>
+				<LocationID>11452</LocationID>
+				<LocationType>2</LocationType>
+				<CoordinatesText><![CDATA[N 64°16'05.61" E 27°20'52.87"]]></CoordinatesText>
+				<Altitude>120</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>87100</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Kajaani]]></Municipality>
+				<Directions></Directions>
+				<DirectionsText></DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5539</SiteID>
+			<SiteName><![CDATA[Kalajoki Schlepp]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme und Hängegleiter]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders and hanggliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5539]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Kalajoki Schlepp]]></LocationName>
+				<Coordinates>23.830331,64.230281</Coordinates>
+				<LocationID>11453</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 64°13'49.01" E 23°49'49.19"]]></CoordinatesText>
+				<Altitude>16</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>85100</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Kalajoki]]></Municipality>
+				<Directions>19</Directions>
+				<DirectionsText>NO, SW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>true</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG><![CDATA[1- und 2-sitzig]]></SuitabilityHG>
+				<SuitabilityHG_en><![CDATA[1- and 2-seaters]]></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5540</SiteID>
+			<SiteName><![CDATA[Rautavaaran Schlepp]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5540]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Rautavaran Schlepp]]></LocationName>
+				<Coordinates>28.123022,63.429319</Coordinates>
+				<LocationID>11454</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 63°25'45.55" E 28°07'22.88"]]></CoordinatesText>
+				<Altitude>143</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>73990</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Kangaslahti]]></Municipality>
+				<Directions>37BF</Directions>
+				<DirectionsText>N, O, S, W</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5541</SiteID>
+			<SiteName><![CDATA[Loma-Koli]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Hanggelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Hill site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>103</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5541]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Loma-Koli Startplatz]]></LocationName>
+				<Coordinates>29.812806,63.170117</Coordinates>
+				<LocationID>11455</LocationID>
+				<LocationType>1</LocationType>
+				<CoordinatesText><![CDATA[N 63°10'12.42" E 29°48'46.10"]]></CoordinatesText>
+				<Altitude>217</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>83960</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Loma-Koli]]></Municipality>
+				<Directions>3</Directions>
+				<DirectionsText>O</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+			<Location>
+				<LocationName><![CDATA[Loma-Koli Landeplatz]]></LocationName>
+				<Coordinates>29.822558,63.168969</Coordinates>
+				<LocationID>11456</LocationID>
+				<LocationType>2</LocationType>
+				<CoordinatesText><![CDATA[N 63°10'08.29" E 29°49'21.21"]]></CoordinatesText>
+				<Altitude>114</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>83960</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Loma-Koli]]></Municipality>
+				<Directions></Directions>
+				<DirectionsText></DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5542</SiteID>
+			<SiteName><![CDATA[Kauhava Schlepp]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5542]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Kauhava Schlepp]]></LocationName>
+				<Coordinates>23.047753,63.119464</Coordinates>
+				<LocationID>11457</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 63°07'10.07" E 23°02'51.91"]]></CoordinatesText>
+				<Altitude>40</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>62200</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Kauhava]]></Municipality>
+				<Directions>7F</Directions>
+				<DirectionsText>N, S</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5543</SiteID>
+			<SiteName><![CDATA[Menkijärvi Schlepp]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5543]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Menkijärvi Schlepp]]></LocationName>
+				<Coordinates>23.513419,62.946275</Coordinates>
+				<LocationID>11458</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 62°56'46.59" E 23°30'48.31"]]></CoordinatesText>
+				<Altitude>100</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>62760</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Menkijärvi]]></Municipality>
+				<Directions>19</Directions>
+				<DirectionsText>NO, SW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5544</SiteID>
+			<SiteName><![CDATA[Suoranta Schlepp]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5544]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Suoranta Schlepp]]></LocationName>
+				<Coordinates>29.998553,62.537028</Coordinates>
+				<LocationID>11459</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 62°32'13.30" E 29°59'54.79"]]></CoordinatesText>
+				<Altitude>80</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>86910</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Suoranta]]></Municipality>
+				<Directions>5D</Directions>
+				<DirectionsText>SO, NW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5545</SiteID>
+			<SiteName><![CDATA[Kauhajoki Schlepp]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme und Hängegleiter]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders and hanggliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5545]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Kauhajoki Schlepp]]></LocationName>
+				<Coordinates>22.386756,62.462883</Coordinates>
+				<LocationID>11460</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 62°27'46.38" E 22°23'12.32"]]></CoordinatesText>
+				<Altitude>122</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>61850</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Kauhajoki]]></Municipality>
+				<Directions>19</Directions>
+				<DirectionsText>NO, SW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>true</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG><![CDATA[1- und 2-sitzig]]></SuitabilityHG>
+				<SuitabilityHG_en><![CDATA[1- and 2-seaters]]></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5546</SiteID>
+			<SiteName><![CDATA[Tolosenmäki Schlepp]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5546]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Tolosenmäki Schlepp]]></LocationName>
+				<Coordinates>30.078836,62.171422</Coordinates>
+				<LocationID>11461</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 62°10'17.12" E 30°04'43.81"]]></CoordinatesText>
+				<Altitude>106</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>82380</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Tolosenmäki]]></Municipality>
+				<Directions>19</Directions>
+				<DirectionsText>NO, SW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5547</SiteID>
+			<SiteName><![CDATA[Teiskon Schlepp]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5547]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Teiskon Schlepp]]></LocationName>
+				<Coordinates>24.027347,61.773858</Coordinates>
+				<LocationID>11462</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 61°46'25.89" E 24°01'38.45"]]></CoordinatesText>
+				<Altitude>159</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>34270</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Velaatta]]></Municipality>
+				<Directions>19</Directions>
+				<DirectionsText>NO, SW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5548</SiteID>
+			<SiteName><![CDATA[Hämeenkyrön Schlepp]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5548]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Hämeenkyrön Schlepp]]></LocationName>
+				<Coordinates>23.072986,61.689708</Coordinates>
+				<LocationID>11463</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 61°41'22.95" E 23°04'22.75"]]></CoordinatesText>
+				<Altitude>136</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>39200</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Kyrofors]]></Municipality>
+				<Directions>3B</Directions>
+				<DirectionsText>O, W</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5549</SiteID>
+			<SiteName><![CDATA[Puttola]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Hanggelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Hill site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>19</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5549]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Puttola Startplatz]]></LocationName>
+				<Coordinates>28.383475,61.337058</Coordinates>
+				<LocationID>11464</LocationID>
+				<LocationType>1</LocationType>
+				<CoordinatesText><![CDATA[N 61°20'13.41" E 28°23'00.51"]]></CoordinatesText>
+				<Altitude>102</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>56310</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Puttola]]></Municipality>
+				<Directions>567</Directions>
+				<DirectionsText>SO-S</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+			<Location>
+				<LocationName><![CDATA[Puttola Landeplatz 1]]></LocationName>
+				<Coordinates>28.383475,61.337058</Coordinates>
+				<LocationID>11465</LocationID>
+				<LocationType>2</LocationType>
+				<CoordinatesText><![CDATA[N 61°20'13.41" E 28°23'00.51"]]></CoordinatesText>
+				<Altitude>102</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>56310</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Puttola]]></Municipality>
+				<Directions></Directions>
+				<DirectionsText></DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks><![CDATA[Toplandung]]></LocationRemarks>
+			</Location>
+			<Location>
+				<LocationName><![CDATA[Puttola Landeplatz 2]]></LocationName>
+				<Coordinates>28.395142,61.336103</Coordinates>
+				<LocationID>11466</LocationID>
+				<LocationType>2</LocationType>
+				<CoordinatesText><![CDATA[N 61°20'09.97" E 28°23'42.51"]]></CoordinatesText>
+				<Altitude>83</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>56310</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Puttola]]></Municipality>
+				<Directions></Directions>
+				<DirectionsText></DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5550</SiteID>
+			<SiteName><![CDATA[Vaivio]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Hanggelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Hill site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks><![CDATA[Im Winter Landung auf gefrorenem See möglich.]]></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5550]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Vaivio Startplatz]]></LocationName>
+				<Coordinates>28.248339,61.299361</Coordinates>
+				<LocationID>11467</LocationID>
+				<LocationType>1</LocationType>
+				<CoordinatesText><![CDATA[N 61°17'57.70" E 28°14'54.02"]]></CoordinatesText>
+				<Altitude>98</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>56350</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Kyhrä]]></Municipality>
+				<Directions>789</Directions>
+				<DirectionsText>S-SW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+			<Location>
+				<LocationName><![CDATA[Vaivio Landeplatz]]></LocationName>
+				<Coordinates>28.248339,61.299361</Coordinates>
+				<LocationID>11468</LocationID>
+				<LocationType>2</LocationType>
+				<CoordinatesText><![CDATA[N 61°17'57.70" E 28°14'54.02"]]></CoordinatesText>
+				<Altitude>98</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>56350</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Kyhrä]]></Municipality>
+				<Directions></Directions>
+				<DirectionsText></DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks><![CDATA[Toplandung]]></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5551</SiteID>
+			<SiteName><![CDATA[Immola Schlepp]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Hängegleiter]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for hanggliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5551]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Immola Schlepp]]></LocationName>
+				<Coordinates>28.902111,61.237939</Coordinates>
+				<LocationID>11469</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 61°14'16.58" E 28°54'07.60"]]></CoordinatesText>
+				<Altitude>101</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>55910</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Immola]]></Municipality>
+				<Directions>37BF</Directions>
+				<DirectionsText>N, O, S, W</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>true</Hanggliding>
+				<Paragliding>false</Paragliding>
+				<SuitabilityHG><![CDATA[1- und 2-sitzig]]></SuitabilityHG>
+				<SuitabilityHG_en><![CDATA[1- and 2-seaters]]></SuitabilityHG_en>
+				<SuitabilityPG></SuitabilityPG>
+				<SuitabilityPG_en></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5552</SiteID>
+			<SiteName><![CDATA[Selänpään Schlepp]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5552]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Selänpään Schlepp]]></LocationName>
+				<Coordinates>26.799556,61.061972</Coordinates>
+				<LocationID>11470</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 61°03'43.10" E 26°47'58.40"]]></CoordinatesText>
+				<Altitude>124</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>47810</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Selänpään]]></Municipality>
+				<Directions>159D</Directions>
+				<DirectionsText>NO, SO, SW, NW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5553</SiteID>
+			<SiteName><![CDATA[Linnilä Schlepp]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme und Hängegleiter]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders and hanggliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5553]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Linnilä Schlepp]]></LocationName>
+				<Coordinates>26.124442,60.897967</Coordinates>
+				<LocationID>11471</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 60°53'52.68" E 26°07'27.99"]]></CoordinatesText>
+				<Altitude>62</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>16100</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Linnilä]]></Municipality>
+				<Directions>19</Directions>
+				<DirectionsText>NO, SW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>true</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG><![CDATA[1- und 2-sitzig]]></SuitabilityHG>
+				<SuitabilityHG_en><![CDATA[1- and 2-seaters]]></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5554</SiteID>
+			<SiteName><![CDATA[Oripään Schlepp]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme und Hängegleiter]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders and hanggliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5554]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Oripään Schlepp]]></LocationName>
+				<Coordinates>22.741758,60.877056</Coordinates>
+				<LocationID>11472</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 60°52'37.40" E 22°44'30.33"]]></CoordinatesText>
+				<Altitude>102</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>32500</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Oripään]]></Municipality>
+				<Directions>37BF</Directions>
+				<DirectionsText>N, O, S, W</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>true</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG><![CDATA[1- und 2-sitzig]]></SuitabilityHG>
+				<SuitabilityHG_en><![CDATA[1- and 2-seaters]]></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5555</SiteID>
+			<SiteName><![CDATA[Kärkölä Schlepp]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5555]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Kärkölä Schlepp]]></LocationName>
+				<Coordinates>25.128158,60.863536</Coordinates>
+				<LocationID>11473</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 60°51'48.73" E 25°07'41.37"]]></CoordinatesText>
+				<Altitude>87</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>16670</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Joentausta]]></Municipality>
+				<Directions>3B</Directions>
+				<DirectionsText>O, W</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5556</SiteID>
+			<SiteName><![CDATA[Räyskälä Schlepp]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme und Hängegleiter]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders and hanggliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5556]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Räyskälä Schlepp]]></LocationName>
+				<Coordinates>24.112572,60.744292</Coordinates>
+				<LocationID>11474</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 60°44'39.45" E 24°06'45.26"]]></CoordinatesText>
+				<Altitude>122</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>12820</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Kotiniemi]]></Municipality>
+				<Directions>5D</Directions>
+				<DirectionsText>NW, SO</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>true</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG><![CDATA[1- und 2-sitzig]]></SuitabilityHG>
+				<SuitabilityHG_en><![CDATA[1- and 2-seaters]]></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5557</SiteID>
+			<SiteName><![CDATA[Porlammi]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Hanggelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Hill site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>56</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5557]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Porlammi Startplatz]]></LocationName>
+				<Coordinates>26.018950,60.710711</Coordinates>
+				<LocationID>11475</LocationID>
+				<LocationType>1</LocationType>
+				<CoordinatesText><![CDATA[N 60°42'38.56" E 26°01'08.22"]]></CoordinatesText>
+				<Altitude>98</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>07820</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Porlammi]]></Municipality>
+				<Directions>D</Directions>
+				<DirectionsText>NW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+			<Location>
+				<LocationName><![CDATA[Porlammi Landeplatz 1]]></LocationName>
+				<Coordinates>26.018950,60.710711</Coordinates>
+				<LocationID>11476</LocationID>
+				<LocationType>2</LocationType>
+				<CoordinatesText><![CDATA[N 60°42'38.56" E 26°01'08.22"]]></CoordinatesText>
+				<Altitude>98</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>07820</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Porlammi]]></Municipality>
+				<Directions></Directions>
+				<DirectionsText></DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks><![CDATA[Toplandung]]></LocationRemarks>
+			</Location>
+			<Location>
+				<LocationName><![CDATA[Porlammi Landeplatz 2]]></LocationName>
+				<Coordinates>26.012031,60.708981</Coordinates>
+				<LocationID>11477</LocationID>
+				<LocationType>2</LocationType>
+				<CoordinatesText><![CDATA[N 60°42'32.33" E 26°00'43.31"]]></CoordinatesText>
+				<Altitude>42</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>07820</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Porlammi]]></Municipality>
+				<Directions></Directions>
+				<DirectionsText></DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks><![CDATA[Landung im Winter auf gefrorenem Sere möglich.]]></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5558</SiteID>
+			<SiteName><![CDATA[Viluksela Schlepp]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Schleppgelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Towing site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5558]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Viluksela Schlepp]]></LocationName>
+				<Coordinates>23.245183,60.681636</Coordinates>
+				<LocationID>11478</LocationID>
+				<LocationType>3</LocationType>
+				<CoordinatesText><![CDATA[N 60°40'53.89" E 23°14'42.66"]]></CoordinatesText>
+				<Altitude>89</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>31520</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Viluksela]]></Municipality>
+				<Directions>5D</Directions>
+				<DirectionsText>NW, SO</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+		</FlyingSite>
+		<FlyingSite>
+			<SiteID>5559</SiteID>
+			<SiteName><![CDATA[Ylikylä]]></SiteName>
+			<SiteCountry>FI</SiteCountry>
+			<SiteType><![CDATA[Hanggelände für Gleitschirme]]></SiteType>
+			<SiteType_en><![CDATA[Hill site for paragliders]]></SiteType_en>
+			<HeightDifferenceMax>0</HeightDifferenceMax>
+			<WebCam1></WebCam1>
+			<WebCam2></WebCam2>
+			<WebCam3></WebCam3>
+			<WeatherInfo></WeatherInfo>
+			<WeatherPhone></WeatherPhone>
+			<DECertified>false</DECertified>
+			<DECertificationHolder></DECertificationHolder>
+			<SiteContact></SiteContact>
+			<SiteInformation></SiteInformation>
+			<CableCar></CableCar>
+			<SiteRemarks></SiteRemarks>
+			<Requirements></Requirements>
+			<SiteUrl><![CDATA[https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=5559]]></SiteUrl>
+			<Location>
+				<LocationName><![CDATA[Ylikylä Startplatz]]></LocationName>
+				<Coordinates>21.921925,60.277256</Coordinates>
+				<LocationID>11479</LocationID>
+				<LocationType>1</LocationType>
+				<CoordinatesText><![CDATA[N 60°16'38.12" E 21°55'18.93"]]></CoordinatesText>
+				<Altitude>12</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>21150</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Ylikylä]]></Municipality>
+				<Directions>789</Directions>
+				<DirectionsText>S-SW</DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks></LocationRemarks>
+			</Location>
+			<Location>
+				<LocationName><![CDATA[Ylikylä Landeplatz]]></LocationName>
+				<Coordinates>21.921925,60.277256</Coordinates>
+				<LocationID>11480</LocationID>
+				<LocationType>2</LocationType>
+				<CoordinatesText><![CDATA[N 60°16'38.12" E 21°55'18.93"]]></CoordinatesText>
+				<Altitude>12</Altitude>
+				<LocationCountry>FI</LocationCountry>
+				<PostCode>21150</PostCode>
+				<RegionID>166</RegionID>
+				<Region><![CDATA[Finnland]]></Region>
+				<Municipality><![CDATA[Ylikylä]]></Municipality>
+				<Directions></Directions>
+				<DirectionsText></DirectionsText>
+				<TowingLength>0</TowingLength>
+				<MobileWinch>0</MobileWinch>
+				<TowingHeight1>0</TowingHeight1>
+				<TowingHeight2>0</TowingHeight2>
+				<AccessByCar>true</AccessByCar>
+				<AccessByPublicTransport>false</AccessByPublicTransport>
+				<AccessByFoot>true</AccessByFoot>
+				<AccessRemarks></AccessRemarks>
+				<Hanggliding>false</Hanggliding>
+				<Paragliding>true</Paragliding>
+				<SuitabilityHG></SuitabilityHG>
+				<SuitabilityHG_en></SuitabilityHG_en>
+				<SuitabilityPG><![CDATA[1- und 2-sitzig]]></SuitabilityPG>
+				<SuitabilityPG_en><![CDATA[1- and 2-seaters]]></SuitabilityPG_en>
+				<LocationRemarks><![CDATA[Toplandung. Im Winter Landung auf gefrorenem See möglich.]]></LocationRemarks>
+			</Location>
+		</FlyingSite>
+	</FlyingSites>
+</DhvXml>

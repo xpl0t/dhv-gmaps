@@ -5,10 +5,12 @@
         "removeComments": true,
         "preserveConstEnums": true,
         "strict": false,
-        "declaration": true
+        "declaration": true,
+        "allowJs": true,
+        "target": "ESNext"
     },
     "include": [
-        "src/**/*"
+        "src/**/*.ts"
     ],
     "exclude": [
         "**/*.spec.ts"
